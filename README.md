@@ -25,4 +25,5 @@ This project performs customer segmentation using RFM (Recency, Frequency, Monet
 ## 📁 Files
 - rfm_analysis.sql → SQL queries  
 - customer_segments.csv → processed dataset  
-- dashboard.pbix → Power BI dashboard  
+- dashboard.pbix → Power BI dashboard
+- dashboard.png
