@@ -1,0 +1,6 @@
+customer_id,total_spent,customer_segment
+105,150.00,"Regular Customers"
+103,450.00,"Loyal Customers"
+102,700.00,"At Risk"
+104,1800.00,Champions
+101,2100.00,"At Risk"
